@@ -30,6 +30,7 @@ psql -U <your-username> -d salon -f salon.sql
 Run the Bash script to interact with the salon:
 
 ./salon.sh
+```
 Once running, you can:
 
 View available services
